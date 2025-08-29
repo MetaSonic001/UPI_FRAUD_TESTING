@@ -6,7 +6,7 @@ import json
 import time
 from datetime import datetime
 import uvicorn
-
+import os
 # Import the RAGTFD pipeline (assuming it's in ragtfd_pipeline.py)
 # from ragtfd_pipeline import RAGTFDPipeline
 
